@@ -10,7 +10,7 @@ import pygame as pg
 import random as r
 from os import *
 
-# Custom Imports
+# Custom Imports #
 from settings import *
 from sprites import *
 ################### FINISHED ###################

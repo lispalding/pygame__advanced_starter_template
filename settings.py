@@ -1,7 +1,8 @@
 # MADE BY: Lisette Spalding
-# FILE NAME: main.py
-# DATE CREATED: 02/25/2021
-# DATE LAST MODIFIED: 02/25/2021
+# FILE NAME: settings.py
+# PROJECT NAME: pygame__advanced_starter_template
+# DATE CREATED: 03/05/2021
+# DATE LAST MODIFIED: 03/05/2021
 # PYTHON VER. USED: 3.8
 
 ################### IMPORTS ####################
